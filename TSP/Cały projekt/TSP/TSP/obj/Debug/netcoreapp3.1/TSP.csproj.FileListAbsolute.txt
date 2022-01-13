@@ -1,0 +1,27 @@
+C:\Users\Michal\source\repos\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.exe
+C:\Users\Michal\source\repos\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.deps.json
+C:\Users\Michal\source\repos\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.runtimeconfig.json
+C:\Users\Michal\source\repos\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.runtimeconfig.dev.json
+C:\Users\Michal\source\repos\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.dll
+C:\Users\Michal\source\repos\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.pdb
+C:\Users\Michal\source\repos\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.csprojAssemblyReference.cache
+C:\Users\Michal\source\repos\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.AssemblyInfo.cs
+C:\Users\Michal\source\repos\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.dll
+C:\Users\Michal\source\repos\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.pdb
+C:\Users\Michal\source\repos\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.genruntimeconfig.cache
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.exe
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.deps.json
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.runtimeconfig.json
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.runtimeconfig.dev.json
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.dll
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\bin\Debug\netcoreapp3.1\TSP.pdb
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.AssemblyInfo.cs
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.dll
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.pdb
+C:\Users\kryst\Desktop\TSP\Cały projekt\TSP\TSP\obj\Debug\netcoreapp3.1\TSP.genruntimeconfig.cache
